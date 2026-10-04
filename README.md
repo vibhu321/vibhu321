@@ -190,7 +190,7 @@ A machine-learning based project exploring the feasibility of a short-term tradi
 
 **Open to opportunities, collaborations, and discussions around .NET & Software Engineering.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vibhanshu-mishra-98266b236/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vibhu321)
 
 </div>
