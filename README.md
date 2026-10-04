@@ -176,11 +176,11 @@ A machine-learning based project exploring the feasibility of a short-term tradi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vibhu321\&show_icons=true\&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight\&hide_border=true\&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vibhu321\&theme=tokyonight\&hide_border=true\&background=0D1117)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vibhu321\&layout=compact\&theme=tokyonight)
 
 </div>
 
